@@ -1,0 +1,6 @@
+idx,diet,allergies,risks,calories,hard_ok,quality_pct,time_sec
+0,Vegetarian,shellfish|eggs,,2194,True,0.0,95.037
+1,Mediterranean,,Depression|Heart disease or stroke,2104,True,0.0,94.803
+2,Paleo,eggs|soy,Testosterone deficiency|Heart disease or stroke,2304,True,0.0,113.548
+3,Vegan,,,2124,True,0.0,77.057
+4,Mediterranean,eggs|soy,High blood pressure|High cholesterol,2596,True,0.0,99.786

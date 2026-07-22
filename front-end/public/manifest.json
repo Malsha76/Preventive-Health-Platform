@@ -1,0 +1,22 @@
+{
+  "short_name": "Preventive Health",
+  "name": "Preventive Health Platform",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1d4ed8",
+  "background_color": "#ffffff"
+}
