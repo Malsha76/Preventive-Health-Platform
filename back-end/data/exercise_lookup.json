@@ -1,0 +1,473 @@
+[
+  {
+    "id": 1,
+    "name": "Partner plank band row",
+    "category": "Abdominals",
+    "equipment": "Bands",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The partner plank band row is an abdominal exercise where two partners perform single-arm planks whi",
+    "rating": 0.0
+  },
+  {
+    "id": 2,
+    "name": "Banded crunch isometric hold",
+    "category": "Abdominals",
+    "equipment": "Bands",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The banded crunch isometric hold is an exercise targeting the abdominal muscles, particularly the re",
+    "rating": 7.9
+  },
+  
+  {
+    "id": 6,
+    "name": "Decline band press sit-up",
+    "category": "Abdominals",
+    "equipment": "Bands",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The decline band press sit-up is a weighted core exercise that works the rectus abdominis or \"six pa",
+    "rating": 7.9
+  },
+  {
+    "id": 7,
+    "name": "FYR2 Banded Frog Pump",
+    "category": "Abdominals",
+    "equipment": "Bands",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  },
+  {
+    "id": 8,
+    "name": "Band low-to-high twist",
+    "category": "Abdominals",
+    "equipment": "Bands",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The band low-to-high twist is a core exercise targeting the upper abdominals and the obliques. Take ",
+    "rating": 7.9
+  },
+  {
+    "id": 9,
+    "name": "Barbell roll-out",
+    "category": "Abdominals",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The barbell roll-out is an abdominal exercise that utilizes a barbell in the place of an ab roller. ",
+    "rating": 8.9
+  },
+  {
+    "id": 10,
+    "name": "Barbell Ab Rollout - On Knees",
+    "category": "Abdominals",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The barbell roll-out is an abdominal exercise that utilizes a barbell in the place of an ab roller. ",
+    "rating": 8.9
+  },
+  {
+    "id": 11,
+    "name": "Decline bar press sit-up",
+    "category": "Abdominals",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The decline bar press sit-up is a weighted core exercise targeting the abdominal muscles, particular",
+    "rating": 8.5
+  },
+  {
+    "id": 12,
+    "name": "Bench barbell roll-out",
+    "category": "Abdominals",
+    "equipment": "Barbell",
+    "difficulty": "Beginner",
+    "muscle_group": "Core",
+    "description": "The bench barbell roll-out is a challenging exercise targeting the abdominals. It is similar to usin",
+    "rating": 8.3
+  },
+  {
+    "id": 13,
+    "name": "Barbell Side Bend",
+    "category": "Abdominals",
+    "equipment": "Barbell",
+    "difficulty": "Beginner",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.0
+  },
+  {
+    "id": 14,
+    "name": "Seated bar twist",
+    "category": "Abdominals",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The seated bar twist is a core exercise meant to strengthen the obliques. It is often performed for ",
+    "rating": 4.7
+  },
+  {
+    "id": 15,
+    "name": "Single-arm landmine pull and press",
+    "category": "Abdominals",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The single-arm landmine pull and press is an explosive rotational movement using a barbell anchored ",
+    "rating": 7.9
+  },
+  {
+    "id": 16,
+    "name": "Barbell Ab Roll Out - Gethin Variation",
+    "category": "Abdominals",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The barbell roll-out is an abdominal exercise that utilizes a barbell in the place of an ab roller. ",
+    "rating": 7.9
+  },
+  {
+    "id": 17,
+    "name": "30 Barbell Floor Wiper",
+    "category": "Abdominals",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The barbell floor wiper is a core exercise in which the barbell is held in the locked-out position o",
+    "rating": 7.9
+  },
+  {
+    "id": 18,
+    "name": "30 Barbell Roll-Out",
+    "category": "Abdominals",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The barbell roll-out is an abdominal exercise that utilizes a barbell in the place of an ab roller. ",
+    "rating": 7.9
+  },
+  {
+    "id": 19,
+    "name": "Decline plate sit-up",
+    "category": "Abdominals",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The decline plate sit-up is a weighted core exercise that works the rectus abdominis or \"six pack\" m",
+    "rating": 7.9
+  },
+  {
+    "id": 20,
+    "name": "KV Barbell Hip Thrust",
+    "category": "Abdominals",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  },
+  {
+    "id": 21,
+    "name": "Advanced Kettlebell Windmill",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Beginner",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 8.3
+  },
+  {
+    "id": 22,
+    "name": "Kettlebell Windmill",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The single-kettlebell windmill is a dynamic kettlebell exercise emphasizing core strength and should",
+    "rating": 7.7
+  },
+  {
+    "id": 23,
+    "name": "Kettlebell Pass Between The Legs",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Beginner",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.3
+  },
+  {
+    "id": 24,
+    "name": "Kettlebell 3-point leg extension",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The kettlebell 3-point leg extension is a dynamic core exercise performed around and over a kettlebe",
+    "rating": 0.0
+  },
+  {
+    "id": 25,
+    "name": "Double Kettlebell Swing",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  },
+  {
+    "id": 26,
+    "name": "Burpee over kettlebell",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The burpee over kettlebell is a more advanced version of a popular conditioning exercise. If you're ",
+    "rating": 7.9
+  },
+  {
+    "id": 27,
+    "name": "Kettlebell toe-touch",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The kettlebell toe-touch is a more difficult version of a highly popular abdominal movement usually ",
+    "rating": 7.9
+  },
+  {
+    "id": 28,
+    "name": "Kettlebell swing",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The kettlebell swing is a popular lower-body exercise emphasizing the hamstrings, glutes, and back m",
+    "rating": 7.9
+  },
+  {
+    "id": 29,
+    "name": "Two-way swing",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The two-way kettlebell swing is an exercise that alternates a chest-height kettlebell swing (sometim",
+    "rating": 7.9
+  },
+  {
+    "id": 30,
+    "name": "Kettlebell crab reach",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The kettlebell crab reach is a kettlebell pressing exercise in which the lifter presses a kettlebell",
+    "rating": 7.9
+  },
+  {
+    "id": 31,
+    "name": "Taylor Single-Arm Kettlebell Swing",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  },
+  {
+    "id": 32,
+    "name": "Holman Kettlebell Up to Elbow Down",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  },
+  {
+    "id": 33,
+    "name": "FYR2 Double-Kettlebell Ski",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  },
+  {
+    "id": 34,
+    "name": "FYR2 Kettlebell Hike",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  },
+  {
+    "id": 35,
+    "name": "FYR2 Kettlebell Cross-Body Catch",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  },
+  {
+    "id": 36,
+    "name": "FYR2 Kettlebell Duck Walk",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  },
+  {
+    "id": 37,
+    "name": "FYR2 Kettlebell Get-Up Reach",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  },
+  {
+    "id": 38,
+    "name": "FYR2 Kettlebell Juggle",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  },
+  {
+    "id": 39,
+    "name": "FYR2 Squat-Clean-Alternating-Press Complex",
+    "category": "Abdominals",
+    "equipment": "Kettlebells",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  },
+  {
+    "id": 40,
+    "name": "Dumbbell V-Sit Cross Jab",
+    "category": "Abdominals",
+    "equipment": "Dumbbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The dumbbell V-sit cross jab is a hybrid movement that trains the abdominal and shoulder muscles sim",
+    "rating": 9.3
+  },
+  {
+    "id": 41,
+    "name": "Dumbbell spell caster",
+    "category": "Abdominals",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner",
+    "muscle_group": "Core",
+    "description": "The dumbbell spell caster is an exercise that primarily targets the abdominal muscles such as the ob",
+    "rating": 9.3
+  },
+  {
+    "id": 42,
+    "name": "Dumbbell side bend",
+    "category": "Abdominals",
+    "equipment": "Dumbbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The dumbbell side bend is a popular exercise for targeting the oblique muscles of the abdomen. It is",
+    "rating": 8.6
+  },
+  {
+    "id": 43,
+    "name": "Dumbbell crunch",
+    "category": "Abdominals",
+    "equipment": "Dumbbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The dumbbell crunch is a more difficult version of a highly popular abdominal movement. The simple a",
+    "rating": 7.9
+  },
+  {
+    "id": 44,
+    "name": "Dumbbell Fix Dumbbell Sprawl",
+    "category": "Abdominals",
+    "equipment": "Dumbbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  },
+  {
+    "id": 45,
+    "name": "Dumbbell Fix Alternating Renegade Row",
+    "category": "Abdominals",
+    "equipment": "Dumbbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  },
+  {
+    "id": 46,
+    "name": "Dumbbell Fix Dumbbell Mountain Climber",
+    "category": "Abdominals",
+    "equipment": "Dumbbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  },
+  {
+    "id": 47,
+    "name": "Dumbbell Fix Dumbbell Russian Twist",
+    "category": "Abdominals",
+    "equipment": "Dumbbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  },
+  {
+    "id": 48,
+    "name": "Dumbbell Fix Dumbbell Pull-Over",
+    "category": "Abdominals",
+    "equipment": "Dumbbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  },
+  {
+    "id": 49,
+    "name": "Dumbbell Fix Dumbbell Sit-Up",
+    "category": "Abdominals",
+    "equipment": "Dumbbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  },
+  {
+    "id": 50,
+    "name": "Dumbbell Fix Dumbbell Front Squat",
+    "category": "Abdominals",
+    "equipment": "Dumbbell",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "",
+    "rating": 7.9
+  }
+]
