@@ -55,7 +55,15 @@ export default function Home() {
                 <span className="home-hero__title-accent">every day</span>
               </h1>
 
-              
+              <p className="home-hero__subtitle">
+                A hospital-aligned platform that helps you stick to nutrition
+                prescriptions, physical activity plans, and medication
+                schedules with progress tracking and clinician oversight.
+              </p>
+
+              <p className="home-hero__hospital">
+                Ruhunu Hospital, Galle
+              </p>
 
               <div className="home-hero__actions">
                 <Link to="/signup" className="home-hero__btn-primary">
