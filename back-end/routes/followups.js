@@ -49,6 +49,21 @@ router.post('/', async (req, res) => {
   }
 });
 
+// Clear needsFollowUp flag (hospital action)
+router.post('/patient/:patientId/clear-flag', async (req, res) => {
+  try {
+    const { patientId } = req.params;
+    const u = await User.findByIdAndUpdate(
+      patientId,
+      { $set: { needsFollowUp: false, needsFollowUpAt: null } },
+      { new: true }
+    ).select('_id needsFollowUp needsFollowUpAt');
+
+    // Optionally resolve follow-up alerts
+    await Alert.updateMany(
+      { patientId, type: 'followup', resolved: { $ne: true } },
+      { $set: { resolved: true, resolvedAt: new Date() } }
+    );
 
     const io = req.app.get('io');
     if (io) io.to('hospital').emit('patient:updated', { patientId, needsFollowUp: false });
