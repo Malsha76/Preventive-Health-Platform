@@ -53,7 +53,12 @@ async function resolveHospitalFromRegistration({ hospitalCode, inviteToken, emai
     err.status = 403;
     throw err;
   }
-  
+  if (!code || code !== SHARED_CODE) {
+    const err = new Error('Invalid hospital registration code');
+    err.status = 400;
+    throw err;
+  }
+
   return {
     hospitalId: DEFAULT_HOSPITAL_ID,
     hospitalName: DEFAULT_HOSPITAL_NAME,
