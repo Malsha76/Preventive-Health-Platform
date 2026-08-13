@@ -9,7 +9,7 @@ const workoutSchema = new mongoose.Schema({
         required: true
     },
     fitnessLevel: {
-        type: ,
+        type: String,
         enum: ['beginner', 'intermediate', 'advanced'],
         required: true
     },
