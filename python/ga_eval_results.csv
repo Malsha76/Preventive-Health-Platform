@@ -1,31 +1,31 @@
 idx,diet,allergies,risks,calories,hard_ok,quality_pct,time_sec
-0,Mediterranean,eggs|fish,Depression,1988,True,0.0,87.341
-1,Vegan,fish,High cholesterol,2405,True,0.0,89.454
-2,Vegan,nuts,High blood pressure|Testosterone deficiency,2423,True,0.0,89.178
-3,Vegan,,High cholesterol,2527,True,0.0,100.809
-4,Gluten Free,,Depression,2142,True,0.0,87.212
-5,Keto,,,2340,True,0.0,74.399
-6,Vegetarian,,Diabetes|Testosterone deficiency,2363,True,0.0,90.032
-7,Vegetarian,,,2314,True,0.0,81.022
-8,Paleo,,Testosterone deficiency,2385,True,0.0,80.871
-9,Mediterranean,soy|eggs,,1861,True,0.0,81.328
-10,Paleo,dairy|eggs,High cholesterol,1887,True,0.0,82.32
-11,Mediterranean,nuts,,1738,True,0.0,58.784
-12,Keto,eggs,High cholesterol|High blood pressure,2584,True,0.0,70.997
-13,Vegan,,Diabetes,2520,True,0.0,68.508
-14,Paleo,,,2321,True,0.0,54.71
-15,Vegetarian,,,2550,True,0.0,56.732
-16,Vegan,dairy,Testosterone deficiency|High blood pressure,1939,True,0.0,75.11
-17,Paleo,eggs|fish,Testosterone deficiency|High cholesterol,2519,True,0.0,131.736
-18,Gluten Free,nuts,Depression|High blood pressure,2428,True,0.0,87.102
-19,Vegan,,,2297,True,0.0,52.734
-20,Gluten Free,,Testosterone deficiency,2281,True,0.0,60.186
-21,No restrictions,,High blood pressure|High cholesterol,1874,True,0.0,62.444
-22,Vegetarian,soy|shellfish,Diabetes,2409,True,0.0,74.272
-23,Paleo,eggs|shellfish,Testosterone deficiency|Heart disease or stroke,2090,True,0.0,103.672
-24,Keto,,Diabetes|High blood pressure,2050,True,0.0,59.159
-25,Gluten Free,,,1859,True,0.0,52.931
-26,Paleo,soy,High blood pressure|High cholesterol,1733,True,0.0,79.704
-27,Paleo,,,2581,True,0.0,53.12
-28,No restrictions,fish|gluten,High blood pressure,1774,True,0.0,70.016
-29,Mediterranean,dairy|eggs,,2291,True,0.0,72.632
+0,Paleo,gluten,Depression,2591,True,75.26,55.374
+1,Paleo,,High blood pressure|Heart disease or stroke,2383,False,99.28,62.475
+2,Paleo,,High cholesterol|Testosterone deficiency,2282,True,87.47,64.138
+3,Paleo,,Heart disease or stroke,2456,True,90.39,64.285
+4,No restrictions,fish|dairy,,1794,True,29.86,61.839
+5,Mediterranean,,High blood pressure|Diabetes,1962,False,61.56,88.464
+6,Paleo,nuts|shellfish,Heart disease or stroke|High blood pressure,1789,False,28.83,86.8
+7,Keto,soy,,1811,True,33.34,60.794
+8,No restrictions,gluten,High blood pressure|Diabetes,2165,False,93.29,80.328
+9,Paleo,fish,High cholesterol|High blood pressure,2556,False,59.79,103.023
+10,Vegan,shellfish|gluten,Diabetes|Testosterone deficiency,1819,False,34.95,119.361
+11,Paleo,dairy|eggs,Diabetes|Testosterone deficiency,1703,False,10.08,116.199
+12,Gluten Free,gluten,High blood pressure|Diabetes,1956,False,60.52,108.864
+13,No restrictions,nuts|dairy,,2488,True,66.89,72.136
+14,Paleo,nuts,Diabetes,1939,False,57.54,73.877
+15,Gluten Free,gluten|soy,,2459,True,70.04,92.427
+16,Paleo,shellfish,Depression|High cholesterol,2459,True,70.04,117.166
+17,Vegetarian,shellfish,,2526,True,62.88,92.56
+18,Gluten Free,dairy|fish,High cholesterol|Testosterone deficiency,2548,True,60.61,101.592
+19,Vegetarian,,High blood pressure,2547,False,60.71,70.972
+20,Mediterranean,fish,,2084,True,81.37,73.894
+21,Paleo,dairy|eggs,High cholesterol,2371,True,80.06,122.22
+22,Vegetarian,eggs,,2547,True,60.71,80.242
+23,Paleo,nuts,,2190,True,96.79,74.193
+24,Mediterranean,gluten,Heart disease or stroke|Diabetes,1901,False,50.7,103.399
+25,Vegetarian,,Diabetes,1724,False,14.83,80.452
+26,Keto,nuts,High cholesterol,2358,True,81.61,117.361
+27,Mediterranean,,Heart disease or stroke,2419,True,74.51,75.882
+28,Gluten Free,eggs|soy,,1782,True,57.19,65.024
+29,Keto,eggs,Depression,2269,True,69.23,513.081
