@@ -19,7 +19,36 @@
     "description": "The banded crunch isometric hold is an exercise targeting the abdominal muscles, particularly the re",
     "rating": 7.9
   },
-  
+  {
+    "id": 3,
+    "name": "FYR Banded Plank Jack",
+    "category": "Abdominals",
+    "equipment": "Bands",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The banded plank jack is a variation on the plank that involves moving the legs in and out for repet",
+    "rating": 7.9
+  },
+  {
+    "id": 4,
+    "name": "Banded crunch",
+    "category": "Abdominals",
+    "equipment": "Bands",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The banded crunch is an exercise targeting the abdominal muscles, particularly the rectus abdominis ",
+    "rating": 7.9
+  },
+  {
+    "id": 5,
+    "name": "Crunch",
+    "category": "Abdominals",
+    "equipment": "Bands",
+    "difficulty": "Intermediate",
+    "muscle_group": "Core",
+    "description": "The crunch is a popular core exercise targeting the rectus abdominis, or \"six-pack\" muscles, as well",
+    "rating": 7.9
+  },
   {
     "id": 6,
     "name": "Decline band press sit-up",

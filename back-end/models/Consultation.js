@@ -17,7 +17,7 @@ const consultationSchema = new mongoose.Schema(
       maxSodium: { type: Number },
       activityIntensity: { type: String }, // light/moderate/vigorous
     },
-   notes: { type: String },
+    notes: { type: String },
   },
   { timestamps: true }
 );
