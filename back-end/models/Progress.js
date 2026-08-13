@@ -18,7 +18,11 @@ const progressSchema = new mongoose.Schema({
         type: Number,
         min: 0
     },
-    
+    workoutsCompleted: {
+        type: Number,
+        min: 0,
+        default: 0
+    },
     waterIntake: {
         type: Number,
         min: 0
