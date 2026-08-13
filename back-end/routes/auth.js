@@ -9,7 +9,7 @@ const router = express.Router();
 
 const upload = multer();
 const JWT_SECRET = process.env.JWT_SECRET || 'your-secret-key-change-in-production';
-
+const crypto = require('crypto');
 
 function issueToken(user) {
   return jwt.sign(
